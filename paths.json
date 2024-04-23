@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/xwalk-eds-hol-user01-site/:/",
-    "/content/xwalk-eds-hol-user01-site/configuration:/.helix/config.json"
+    "/content/xwalk-eds-hol-user02-site/:/",
+    "/content/xwalk-eds-hol-user02-site/configuration:/.helix/config.json"
   ]
 }
